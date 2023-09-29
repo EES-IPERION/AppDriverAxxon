@@ -1,0 +1,6 @@
+﻿<Window x:Class="AppDriverSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Driver Axxon AppVision - IPERION" Height="344" Width="772" Loaded="Window_Loaded" Closed="Window_Closed">
+    <ListBox Name="listBox1" />
+</Window>
